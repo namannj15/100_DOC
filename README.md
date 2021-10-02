@@ -9,3 +9,6 @@
 * [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1) - 28 Sep
 * [Restricted Pacman](https://practice.geeksforgeeks.org/problems/2caf0501a39567d653197364a2b5c8a9f5943b7e/1) - 29 Sep
 * [Vertical Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1#) - 30 Sep
+
+### October
+* [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1#) - 02 Oct
