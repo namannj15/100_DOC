@@ -14,3 +14,4 @@
 * [Smallest range in K lists](https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1#) - 02 Oct
 * [Detect cycle in an undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1#) - 03 Oct
 * [Water Connection Problem](https://practice.geeksforgeeks.org/problems/water-connection-problem5822/1#) - 05 Oct
+* [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) - 06 Oct
