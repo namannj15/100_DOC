@@ -17,3 +17,4 @@
 * [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) - 06 Oct
 * [Elixir of Life](https://practice.geeksforgeeks.org/problems/20290dc4188d384ae1f17d6a14bd2c95ea7012a8/1#) - 07 Oct
 * [Cows of FooLand](https://practice.geeksforgeeks.org/problems/cows-of-fooland5818/1) - 08 Oct
+* [Overlapping Intervals](https://practice.geeksforgeeks.org/problems/8a644e94faaa94968d8665ba9e0a80d1ae3e0a2d/1) - 11 Oct
