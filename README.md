@@ -21,3 +21,4 @@
 * [Interleaved Strings](https://practice.geeksforgeeks.org/problems/interleaved-strings/1) - 13 Oct
 * [Count distinct elements in every window](https://practice.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) - 16 Oct
 * [Minimum operations to convert array A to B](https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1) - 17 Oct
+* [Segregate even and odd nodes in a Link List](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1) - 18 Oct
